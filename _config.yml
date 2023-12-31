@@ -38,7 +38,7 @@ launch_buttons:
   jupyterhub_url: "https://jupyter.utoronto.ca"
 
 repository:
-  url: https://github.com/UofTCompDSci/ggr274-20241
+  url: https://github.com/ilyamusabirov/ggr274testpub
   branch: main
 
 
